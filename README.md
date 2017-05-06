@@ -7,7 +7,9 @@ Introduction to using Github in Android Studio
 <p>Now complete the form to create a new repository called <strong><em>testproject</em></strong>. Leave the <em>Initialize this repository with a README</em><em> <strong>unticked</strong></em>.</p>
 <p><a href="https://i2.wp.com/www.londonappdeveloper.com/wp-content/uploads/2014/08/2014-08-13-19_12_19-Create-a-New-Repository.png"><img class="img img-responsive" src="https://i2.wp.com/www.londonappdeveloper.com/wp-content/uploads/2014/08/2014-08-13-19_12_19-Create-a-New-Repository.png?w=710" alt="GitHub create new repository form" data-recalc-dims="1" /></a></p>
 <p>Next, open <strong><em>Android Studio</em></strong> and create a new project. Call your new application <strong><em>TestProject</em></strong>. Click <strong><em>Next</em></strong> to continue.</p>
-<p><a href="https://i0.wp.com/www.londonappdeveloper.com/wp-content/uploads/2014/08/2014-08-13-20_59_07-PhonePush-C__Users_Mark_AndroidStudioProjects_PhonePush-app-..._app_sr.png"><img class="img img-responsive" src="https://i0.wp.com/www.londonappdeveloper.com/wp-content/uploads/2014/08/2014-08-13-20_59_07-PhonePush-C__Users_Mark_AndroidStudioProjects_PhonePush-app-..._app_sr.png?w=710" alt="Android Studio new project window" data-recalc-dims="1" /></a></p>
+<p><a href="https://i0.wp.com/www.londonappdeveloper.com/wp-content/uploads/2014/08/2014-08-13-20_59_07-PhonePush-C__Users_Mark_AndroidStudioProjects_PhonePush-app-..._app_sr.png"><img class="img img-responsive" src="https://i0.wp.com/www.londonappdeveloper.com/wp-content/uploads/2014/08/2014-08-13-20_59_07-PhonePush-C__Users_Mark_AndroidStudioProjects_PhonePush-app-..._app_sr.png?w=710"
+ alt="Android Studio new project window" data-recalc-dims="1" /></a></p>
+ 
 <p>Leave the next page as default and click <strong><em>Next</em></strong>.</p>
 <p><a href="https://i1.wp.com/www.londonappdeveloper.com/wp-content/uploads/2014/08/2014-08-13-20_59_38-PhonePush-C__Users_Mark_AndroidStudioProjects_PhonePush-app-..._app_sr.png"><img class="img img-responsive" src="https://i1.wp.com/www.londonappdeveloper.com/wp-content/uploads/2014/08/2014-08-13-20_59_38-PhonePush-C__Users_Mark_AndroidStudioProjects_PhonePush-app-..._app_sr.png?w=710" alt="Android Studio &quot;Select the form factors your app will run on&quot; screen" data-recalc-dims="1" /></a></p>
 <p>On the <strong><em>Add an activity to Mobile</em></strong> screen select <strong><em>Blank Activity</em></strong> and click <strong><em>Next</em></strong>.</p>
@@ -25,8 +27,8 @@ Introduction to using Github in Android Studio
 git remote add origin https://github.com/[username]/[project_name].git
 
 </pre>
-<p>An example of a Git repository URL is: <strong><em>https://github.com/markwint/testproject.git</em></strong></p>
-<p><a href="https://i2.wp.com/www.londonappdeveloper.com/wp-content/uploads/2014/08/2014-08-13-21_14_15-markwint_testproject.png"><img class="img img-responsive" src="https://i2.wp.com/www.londonappdeveloper.com/wp-content/uploads/2014/08/2014-08-13-21_14_15-markwint_testproject.png?w=710" alt="Entering command into Git Bash" data-recalc-dims="1" /></a></p>
+<p>An example of a Git repository URL is: <strong><em>https://github.com/jshuajosh59/AndelaALC.git</em></strong></p>
+ 
 <p>Then press enter. The GitHub remote will be added to your Git repository.</p>
 <p>Next, jump back into Android Studio, right click your projects root directory and select <strong><em>Git</em></strong> &gt; <strong><em>Add</em></strong>. This will add all your project files to your Git repository.</p>
 <p><a href="https://i0.wp.com/www.londonappdeveloper.com/wp-content/uploads/2014/08/2014-08-13-21_15_50-TestProject-C__Users_Mark_AndroidStudioProjects_TestProject-app-..._ap.png"><img class="size-full wp-image-172" src="https://i0.wp.com/www.londonappdeveloper.com/wp-content/uploads/2014/08/2014-08-13-21_15_50-TestProject-C__Users_Mark_AndroidStudioProjects_TestProject-app-..._ap.png?w=710" alt="Android Studio &quot;Git &gt; Add&quot; option" data-recalc-dims="1" /></a></p>
