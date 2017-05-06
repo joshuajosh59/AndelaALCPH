@@ -1,9 +1,9 @@
-# AndelaALCPH
+# Andela Android Learning Centre Port Harcourt
 
 Introduction to using Github in Android Studio
 
 <p>Firstly, let&#8217;s login to <a title="GitHub" href="http://github.com" target="_blank">github.com</a> and create a new repository. From the top right corner of the screen, click the <em><strong>+</strong></em> sign and select <em><strong>New repository</strong></em>.</p>
-<p><a href="https://i2.wp.com/www.londonappdeveloper.com/wp-content/uploads/2014/08/2014-08-13-19_02_42-GitHub.png"><img class="img img-responsive" src="https://i2.wp.com/www.londonappdeveloper.com/wp-content/uploads/2014/08/2014-08-13-19_02_42-GitHub.png?w=710" alt="GitHub &quot;New repository&quot; option" data-recalc-dims="1" /></a></p>
+
 <p>Now complete the form to create a new repository called <strong><em>testproject</em></strong>. Leave the <em>Initialize this repository with a README</em><em> <strong>unticked</strong></em>.</p>
 <p><a href="https://i2.wp.com/www.londonappdeveloper.com/wp-content/uploads/2014/08/2014-08-13-19_12_19-Create-a-New-Repository.png"><img class="img img-responsive" src="https://i2.wp.com/www.londonappdeveloper.com/wp-content/uploads/2014/08/2014-08-13-19_12_19-Create-a-New-Repository.png?w=710" alt="GitHub create new repository form" data-recalc-dims="1" /></a></p>
 <p>Next, open <strong><em>Android Studio</em></strong> and create a new project. Call your new application <strong><em>TestProject</em></strong>. Click <strong><em>Next</em></strong> to continue.</p>
